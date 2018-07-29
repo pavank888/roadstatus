@@ -3,7 +3,7 @@
 * Microsoft.AspNet.WebApi.Client nuget package
 * MSTest.TestAdapter nuget package
 * MSTest.TestFramework nuget package
-* system.configuarion reference
+* system. Configuration reference
 
 ### building the application
 * clone the project in visual studio 
@@ -12,7 +12,7 @@
 ### running the application 
 * after successful build, copy the path of the bin/debug folder
 * using command prompt CD to above path
-* run roadstatus [road name] commad from that path in command prompt to see the output.
+* run roadstatus [road name] command from that path in command prompt to see the output.
 
 ### tests 
 * servicetester class under tests folder contains the test cases.
