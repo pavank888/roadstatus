@@ -15,3 +15,6 @@ C:\Users\jammulas\documents\visual studio 2015\Projects\RoadStatus\RoadStatus\bi
 C:\Users\jammulas\documents\visual studio 2015\Projects\RoadStatus\RoadStatus\obj\Release\RoadStatus.exe
 C:\Users\jammulas\documents\visual studio 2015\Projects\RoadStatus\RoadStatus\obj\Release\RoadStatus.pdb
 C:\Users\jammulas\documents\visual studio 2015\Projects\RoadStatus\RoadStatus\obj\Release\RoadStatus.csprojResolveAssemblyReference.cache
+C:\Users\jammulas\Source\Repos\roadstatus\RoadStatus\RoadStatus\bin\Release\RoadStatus.exe.config
+C:\Users\jammulas\Source\Repos\roadstatus\RoadStatus\RoadStatus\obj\Release\RoadStatus.exe
+C:\Users\jammulas\Source\Repos\roadstatus\RoadStatus\RoadStatus\obj\Release\RoadStatus.pdb
