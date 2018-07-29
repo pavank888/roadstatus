@@ -13,3 +13,6 @@
 * after successful build, copy the path of the bin/debug folder
 * using command prompt CD to above path
 * run roadstatus [road name] commad from that path in command prompt to see the output.
+
+### tests 
+* servicetester class under tests folder contains the test cases.
